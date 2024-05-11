@@ -1,0 +1,94 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+body{
+background-color: aliceblue;
+}
+  .card{
+    border: px solid #000000;
+    height: 230px;
+    width: 520px;
+    margin: 10% auto;
+      border-radius: 10px;
+      background-color: rgb(255, 255, 255);
+}
+.user img{
+    border-radius: 10%;
+    width: 40px;
+  margin: 5% auto;
+  margin-left: 10%;
+}
+ .user{
+     border: 0px solid;
+     width: 220px;
+    height: 60px;
+}
+ .user h4{
+     position: absolute;
+     margin-top: -3%;
+     margin-left: 5%;
+      font-weight: 00;
+}
+  .w-5{
+   margin: 10% auto;
+    font-weight: 900;
+}
+  .fonts{
+     margin-top: 22%;
+     padding: 1%;
+}
+.fa-heart{
+    border: none;
+    padding: 1%;
+    border-radius: 10pc ;
+    background-color: rgb(255, 255, 255);
+}
+.fa-heart:hover{
+    border: none;
+    padding: 1%;
+    border-radius: 10pc ;
+    color: aliceblue;
+}
+.fa-comment{
+    border: none;
+    padding: 1%;
+    border-radius: 10pc ;
+    background-color: rgb(255, 255, 255);
+}
+.fa-share{
+    border: none;
+    padding: 1%;
+    border-radius: 10pc ;
+    background-color: rgb(255, 255, 255);
+}
+.fa-paper-plane{
+    border: none;
+    padding: 1%;
+    border-radius: 10pc ;
+    background-color: rgb(255, 255, 255);
+}
+.fa-paper-plane:hover{
+    border: none;
+    padding: 1%;
+    border-radius: 10pc ;
+    color: aqua;
+}
+.h-5{
+    margin-top: -3%;
+    margin-left: 1%;
+    font-weight: 900;
+}
+.post{
+    margin-left: 190%;
+     margin-top: -40%;
+     width: 20px;
+     padding: 5%;
+
+}
+.logo{
+    margin-left: 72%;
+    margin-top: -27%;
+    border-radius: 10pc;
+}
+
+
+
